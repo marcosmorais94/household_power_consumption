@@ -14,8 +14,8 @@ Fonte dos dados: https://archive.ics.uci.edu/ml/datasets/Individual+household+el
 | time |  Hora que foi coletada a amostra | hh:mm:ss |
 | global_active_power |  potência ativa média global por minuto | Quilowatt |
 | global_reactive_power | potência reativa média global por minuto  | Quilowatt |
-| voltage | tensão média por minuto  | volt |
-| global_intensity | intensidade atual média global por minuto  | ampere |
+| voltage | tensão média por minuto  | Volt |
+| global_intensity | intensidade atual média global por minuto  | Ampere |
 | sub_metering_1 |  Corresponde à cozinha, contendo principalmente uma máquina de lavar louça, um forno e um micro-ondas (as placas eléctricas não são eléctricas, mas sim a gás). | Quilowatt-hora |
 | sub_metering_2 | Corresponde à lavanderia, contendo máquina de lavar, secadora, geladeira e luminária. | Quilowatt-hora |
 | sub_metering_3 |  Corresponde a um aquecedor eléctrico e um ar condicionado. | Quilowatt-hora |
