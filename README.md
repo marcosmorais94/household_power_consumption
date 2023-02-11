@@ -18,7 +18,7 @@ Fonte dos dados: https://archive.ics.uci.edu/ml/datasets/Individual+household+el
 | global_intensity | intensidade atual média global por minuto  | Ampere |
 | sub_metering_1 |  Corresponde à cozinha, contendo principalmente uma máquina de lavar louça, um forno e um micro-ondas (as placas eléctricas não são eléctricas, mas sim a gás). | Quilowatt-hora |
 | sub_metering_2 | Corresponde à lavanderia, contendo máquina de lavar, secadora, geladeira e luminária. | Quilowatt-hora |
-| sub_metering_3 |  Corresponde a um aquecedor eléctrico e um ar condicionado. | Quilowatt-hora |
+| sub_metering_3 |  Corresponde a um aquecedor eléctrico e um ar-condicionado. | Quilowatt-hora |
 
 | | |
 | ------------- | ------------- |
